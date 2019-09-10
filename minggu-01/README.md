@@ -24,4 +24,9 @@
    md minggu-01
    ```
    ![alt text](07.png )
+   Lakukan git add dan git commit
+   ![alt text](08.png )
+   Kemudian lakukan push
+   ![alt text](09.png )
+
 
