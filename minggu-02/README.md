@@ -15,6 +15,10 @@
 
     ![alt text](03.PNG)
 
-3. Lakukan git pull untuk menggunakan branch yang baru saja kita buat
+3. Lakukan git pull untuk melihat branch yang baru saja kita buat
 
     ![alt text](04.PNG)
+
+4. Dengan git checkout kita bisa mengganti branch yang lama dengan branch yang baru
+
+    ![alt text](05.PNG)
