@@ -1,4 +1,4 @@
-## Praktikum Praktikum Teknologi Cloud
+## Praktikum Teknologi Cloud
 
 ### Pertemuan 2
 
