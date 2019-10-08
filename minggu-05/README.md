@@ -8,4 +8,4 @@
 
 # Install Cockroach
 1. Anda perlu menginstall docker terlebih dahulu
- 
+ ![alt text](1.PNG) 
